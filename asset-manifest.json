@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robo-amigos-v2/static/css/main.a390ceaf.css",
+    "main.js": "/robo-amigos-v2/static/js/main.680d5169.js",
+    "static/media/SEGA.woff": "/robo-amigos-v2/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robo-amigos-v2/index.html",
+    "main.a390ceaf.css.map": "/robo-amigos-v2/static/css/main.a390ceaf.css.map",
+    "main.680d5169.js.map": "/robo-amigos-v2/static/js/main.680d5169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a390ceaf.css",
+    "static/js/main.680d5169.js"
+  ]
+}
