@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/robo-amigos-v2/static/css/main.5dc228c7.css",
-    "main.js": "/robo-amigos-v2/static/js/main.945bea58.js",
+    "main.js": "/robo-amigos-v2/static/js/main.2f1bc3b8.js",
     "service-worker.js": "/robo-amigos-v2/service-worker.js",
     "static/media/SEGA.woff": "/robo-amigos-v2/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/robo-amigos-v2/index.html",
     "main.5dc228c7.css.map": "/robo-amigos-v2/static/css/main.5dc228c7.css.map",
-    "main.945bea58.js.map": "/robo-amigos-v2/static/js/main.945bea58.js.map"
+    "main.2f1bc3b8.js.map": "/robo-amigos-v2/static/js/main.2f1bc3b8.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc228c7.css",
-    "static/js/main.945bea58.js"
+    "static/js/main.2f1bc3b8.js"
   ]
 }
